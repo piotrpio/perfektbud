@@ -1,0 +1,469 @@
+2020-05-10 02:43:37
+PHP VERSION 7.4.5
+OS VERSION Linux debian 4.9.0-11-amd64 #1 SMP Debian 4.9.189-3+deb9u2 (2019-11-11) x86_64
+WP VERSION 5.4.1
+WP URL http://localhost:8080/perfektbud
+WP SITEURL http://localhost:8080/perfektbud
+WP HOME http://localhost:8080/perfektbud
+WP ADDRESS http://localhost:8080/perfektbud
+PLUGIN VERSION 6.6.7
+VIA WP-CLI? 
+STATIC EXPORT URL https://piotrpio.github.io/
+PERMALINK STRUCTURE /%postname%/
+SERVER SOFTWARE Apache/2.4.43 (Unix) OpenSSL/1.1.1g PHP/7.4.5 mod_perl/2.0.8-dev Perl/v5.16.3
+Active plugins:
+static-html-output-plugin/wp2static.php
+Plugin options:
+additionalUrls: 
+allowOfflineUsage: 1
+baseHREF: 
+baseUrl: http://piotrpio.github.io/perfektbud
+baseUrl-bitbucket: 
+baseUrl-bunnycdn: 
+baseUrl-folder: http://piotrpio.github.io/perfektbud
+baseUrl-ftp: 
+baseUrl-github: http://piotrpio.github.io/
+baseUrl-gitlab: 
+baseUrl-netlify: 
+baseUrl-s3: 
+baseUrl-zip: 
+baseUrl-zip: 
+basicAuthPassword: *******************
+basicAuthUser: piotr
+bbBranch: 
+bbPath: 
+bbRepo: 
+bbToken: *******************
+bunnycdnStorageZoneAccessKey: *******************
+bunnycdnPullZoneAccessKey: *******************
+bunnycdnPullZoneID: 
+bunnycdnStorageZoneName: 
+bunnycdnRemotePath: 
+cfDistributionId: 
+completionEmail: 
+crawl_delay: 0
+crawl_increment: 1
+crawlPort: 80
+debug_mode: 1
+detection_level: everything
+delayBetweenAPICalls: 0
+deployBatchSize: 1
+excludeURLs: 
+ftpPassword: *******************
+ftpRemotePath: 
+ftpServer: 
+ftpPort: 
+ftpTLS: 
+ftpUsername: 
+ghBranch: 
+ghCommitMessage: 
+ghPath: 
+ghRepo: 
+ghToken: *******************
+glBranch: 
+glPath: 
+glProject: 
+glToken: *******************
+netlifyHeaders: 
+netlifyPersonalAccessToken: *******************
+netlifyRedirects: 
+netlifySiteID: 
+removeConditionalHeadComments: 1
+removeHTMLComments: 1
+removeWPLinks: 1
+removeWPMeta: 1
+rewrite_rules: 
+rename_rules: 
+s3Bucket: 
+s3Key: 
+s3Region: 
+s3RemotePath: 
+s3Secret: *******************
+selected_deployment_option: folder
+targetFolder: /opt/lampp/htdocs/perfektbud/mystaticsite
+useActiveFTP: 
+useBaseHref: 
+useBasicAuth: 
+useRelativeURLs: 
+Installed extensions:
+Core
+date
+libxml
+openssl
+pcre
+sqlite3
+zlib
+bcmath
+bz2
+calendar
+ctype
+curl
+dba
+dom
+hash
+fileinfo
+filter
+ftp
+gd
+gettext
+SPL
+iconv
+session
+intl
+json
+ldap
+mbstring
+standard
+mysqlnd
+mysqli
+PDO
+pdo_mysql
+pdo_pgsql
+pdo_sqlite
+Phar
+posix
+Reflection
+imap
+shmop
+SimpleXML
+soap
+sockets
+exif
+sysvsem
+sysvshm
+tokenizer
+xml
+xmlreader
+xmlrpc
+xmlwriter
+xsl
+zip
+apache2handler
+Exclusion rules wp-json
+Crawling /
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /blog/
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /blog/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/bez-kategorii/
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /category/bez-kategorii/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/bez-kategorii/page/1
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /category/bez-kategorii/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /
+Adding discovered URL: /o-nas/
+Adding discovered URL: /blog/
+Adding discovered URL: /kontakt/
+Adding discovered URL: /category/bez-kategorii/
+Adding discovered URL: /witaj-swiecie/
+Adding discovered URL: /author/pido/
+SAVING /category/bez-kategorii/page/1 to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/category/bez-kategorii/page/1/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /favicon.ico
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /favicon.ico
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /kontakt/
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /kontakt/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /lalala/
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /lalala/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /o-nas/
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /o-nas/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /perfektbud/
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /perfektbud/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /perfektbud/blog/
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /perfektbud/blog/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /perfektbud/kontakt/
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /perfektbud/kontakt/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /perfektbud/lalala/
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /perfektbud/lalala/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /perfektbud/o-nas/
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /perfektbud/o-nas/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /perfektbud/przykladowa-strona/
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /perfektbud/przykladowa-strona/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /perfektbud/witaj-swiecie/
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /perfektbud/witaj-swiecie/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /przykladowa-strona/
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /przykladowa-strona/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /robots.txt
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /robots.txt
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /sitemap.xml
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /sitemap.xml
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /strony/page/1
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /strony/page/1
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /witaj-swiecie/
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /witaj-swiecie/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css
+SAVING /wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/css/editor-style-block.css
+SAVING /wp-content/themes/twentytwenty/assets/css/editor-style-block.css to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/css/editor-style-block.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css
+SAVING /wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/css/editor-style-classic.css
+SAVING /wp-content/themes/twentytwenty/assets/css/editor-style-classic.css to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/css/editor-style-classic.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2
+SAVING /wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2
+SAVING /wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png
+SAVING /wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png
+SAVING /wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/images/2020-square-1.png
+SAVING /wp-content/themes/twentytwenty/assets/images/2020-square-1.png to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/images/2020-square-1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/images/2020-square-2.png
+SAVING /wp-content/themes/twentytwenty/assets/images/2020-square-2.png to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/images/2020-square-2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png
+SAVING /wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png
+SAVING /wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png
+SAVING /wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png
+SAVING /wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/js/color-calculations.js
+SAVING /wp-content/themes/twentytwenty/assets/js/color-calculations.js to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/js/color-calculations.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/js/customize-controls.js
+SAVING /wp-content/themes/twentytwenty/assets/js/customize-controls.js to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/js/customize-controls.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/js/customize-preview.js
+SAVING /wp-content/themes/twentytwenty/assets/js/customize-preview.js to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/js/customize-preview.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/js/customize.js
+SAVING /wp-content/themes/twentytwenty/assets/js/customize.js to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/js/customize.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/js/editor-script-block.js
+SAVING /wp-content/themes/twentytwenty/assets/js/editor-script-block.js to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/js/editor-script-block.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/js/index.js
+SAVING /wp-content/themes/twentytwenty/assets/js/index.js to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/js/index.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js
+SAVING /wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/package-lock.json
+SAVING /wp-content/themes/twentytwenty/package-lock.json to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/package-lock.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/print.css
+SAVING /wp-content/themes/twentytwenty/print.css to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/print.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/screenshot.png
+SAVING /wp-content/themes/twentytwenty/screenshot.png to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/screenshot.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/style-rtl.css
+SAVING /wp-content/themes/twentytwenty/style-rtl.css to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/style-rtl.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/style.css
+SAVING /wp-content/themes/twentytwenty/style.css to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/style.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wpisy/page/1
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /wpisy/page/1
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /author/pido/
+cURL error:Failed to connect to localhost port 8080: Connection refused
+NOT SAVING EMTPY FILE /author/pido/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/bez-kategorii/feed/
+SAVING /category/bez-kategorii/feed/ to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/category/bez-kategorii/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /comments/feed/
+SAVING /comments/feed/ to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/comments/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /feed/
+SAVING /feed/ to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817//feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-includes/css/dist/block-library/style.min.css
+SAVING /wp-includes/css/dist/block-library/style.min.css to /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-includes/css/dist/block-library/style.min.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Excluding /wp-json/ because of rule wp-json
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/category/bez-kategorii/feed/index.html to category/bez-kategorii/feed/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"89505d28faa9b73a8a5aed78147e6fc504af796d","byteSize":1818}}}}
+category/bez-kategorii/feed/index.html path exists in GitHub
+Updating category/bez-kategorii/feed/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"category/bez-kategorii/feed/index.html","sha":"7f2ed9d7d4fb5617a13934c5f4edf2cd5ca177db","size":1763,"url":"https://api.github.com/repos/piotrpio/perfektbud/contents/category/bez-kategorii/feed/index.html?ref=gh-pages","html_url":"https://github.com/piotrpio/perfektbud/blob/gh-pages/category/bez-kategorii/feed/index.html","git_url":"https://api.github.com/repos/piotrpio/perfektbud/git/blobs/7f2ed9d7d4fb5617a13934c5f4edf2cd5ca177db","download_url":"https://raw.githubusercontent.com/piotrpio/perfektbud/gh-pages/category/bez-kategorii/feed/index.html","type":"file","_links":{"self":"https://api.github.com/repos/piotrpio/perfektbud/contents/category/bez-kategorii/feed/index.html?ref=gh-pages","git":"https://api.github.com/repos/piotrpio/perfektbud/git/blobs/7f2ed9d7d4fb5617a13934c5f4edf2cd5ca177db","html":"https://github.com/piotrpio/perfektbud/blob/gh-pages/category/bez-kategorii/feed/index.html"}},"commit":{"sha":"2df3ac5fb6b83227455020640764bbfea3cdae68","node_id":"MDY6Q29tbWl0MjYyNzU5NjU4OjJkZjNhYzVmYjZiODMyMjc0NTUwMjA2NDA3NjRiYmZlYTNjZGFlNjg=","url":"https://api.github.com/repos/piotrpio/perfektbud/git/commits/2df3ac5fb6b83227455020640764bbfea3cdae68","html_url":"https://github.com/piotrpio/perfektbud/commit/2df3ac5fb6b83227455020640764bbfea3cdae68","author":{"name":"piotrpio","email":"piotrpiotrowski94@gmail.com","date":"2020-05-10T14:43:48Z"},"committer":{"name":"piotrpio","email":"piotrpiotrowski94@gmail.com","date":"2020-05-10T14:43:48Z"},"tree":{"sha":"136c8a32d0da2c511227495286b4e97441b43374","url":"https://api.github.com/repos/piotrpio/perfektbud/git/trees/136c8a32d0da2c511227495286b4e97441b43374"},"message":"WP2Static UPDATE category/bez-kategorii/feed/index.html","parents":[{"sha":"04ecb1e565b8bfbd334a436956dfedd61e26af10","url":"https://api.github.com/repos/piotrpio/perfektbud/git/commits/04ecb1e565b8bfbd334a436956dfedd61e26af10","html_url":"https://github.com/piotrpio/perfektbud/commit/04ecb1e565b8bfbd334a436956dfedd61e26af10"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/category/bez-kategorii/page/1/index.html to category/bez-kategorii/page/1/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"5fafd31991437e7252e45bad42344a80be2931e8","byteSize":36422}}}}
+category/bez-kategorii/page/1/index.html path exists in GitHub
+Updating category/bez-kategorii/page/1/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"category/bez-kategorii/page/1/index.html","sha":"fe6dbc657a68e266fe0f579591626c4109403ef3","size":36158,"url":"https://api.github.com/repos/piotrpio/perfektbud/contents/category/bez-kategorii/page/1/index.html?ref=gh-pages","html_url":"https://github.com/piotrpio/perfektbud/blob/gh-pages/category/bez-kategorii/page/1/index.html","git_url":"https://api.github.com/repos/piotrpio/perfektbud/git/blobs/fe6dbc657a68e266fe0f579591626c4109403ef3","download_url":"https://raw.githubusercontent.com/piotrpio/perfektbud/gh-pages/category/bez-kategorii/page/1/index.html","type":"file","_links":{"self":"https://api.github.com/repos/piotrpio/perfektbud/contents/category/bez-kategorii/page/1/index.html?ref=gh-pages","git":"https://api.github.com/repos/piotrpio/perfektbud/git/blobs/fe6dbc657a68e266fe0f579591626c4109403ef3","html":"https://github.com/piotrpio/perfektbud/blob/gh-pages/category/bez-kategorii/page/1/index.html"}},"commit":{"sha":"88fedd9afe4cce223a2241cfd96783f9745ffb71","node_id":"MDY6Q29tbWl0MjYyNzU5NjU4Ojg4ZmVkZDlhZmU0Y2NlMjIzYTIyNDFjZmQ5Njc4M2Y5NzQ1ZmZiNzE=","url":"https://api.github.com/repos/piotrpio/perfektbud/git/commits/88fedd9afe4cce223a2241cfd96783f9745ffb71","html_url":"https://github.com/piotrpio/perfektbud/commit/88fedd9afe4cce223a2241cfd96783f9745ffb71","author":{"name":"piotrpio","email":"piotrpiotrowski94@gmail.com","date":"2020-05-10T14:43:50Z"},"committer":{"name":"piotrpio","email":"piotrpiotrowski94@gmail.com","date":"2020-05-10T14:43:50Z"},"tree":{"sha":"9728ecd501b33fcc745744d5e279dc854cbc1e91","url":"https://api.github.com/repos/piotrpio/perfektbud/git/trees/9728ecd501b33fcc745744d5e279dc854cbc1e91"},"message":"WP2Static UPDATE category/bez-kategorii/page/1/index.html","parents":[{"sha":"2df3ac5fb6b83227455020640764bbfea3cdae68","url":"https://api.github.com/repos/piotrpio/perfektbud/git/commits/2df3ac5fb6b83227455020640764bbfea3cdae68","html_url":"https://github.com/piotrpio/perfektbud/commit/2df3ac5fb6b83227455020640764bbfea3cdae68"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/comments/feed/index.html to comments/feed/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"5a2f29a98446ab6120f315b1a5d8c170d77119c7","byteSize":1757}}}}
+comments/feed/index.html path exists in GitHub
+Updating comments/feed/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"comments/feed/index.html","sha":"6bef49bb5778623f3ef08f73e244b20a107cbc61","size":1724,"url":"https://api.github.com/repos/piotrpio/perfektbud/contents/comments/feed/index.html?ref=gh-pages","html_url":"https://github.com/piotrpio/perfektbud/blob/gh-pages/comments/feed/index.html","git_url":"https://api.github.com/repos/piotrpio/perfektbud/git/blobs/6bef49bb5778623f3ef08f73e244b20a107cbc61","download_url":"https://raw.githubusercontent.com/piotrpio/perfektbud/gh-pages/comments/feed/index.html","type":"file","_links":{"self":"https://api.github.com/repos/piotrpio/perfektbud/contents/comments/feed/index.html?ref=gh-pages","git":"https://api.github.com/repos/piotrpio/perfektbud/git/blobs/6bef49bb5778623f3ef08f73e244b20a107cbc61","html":"https://github.com/piotrpio/perfektbud/blob/gh-pages/comments/feed/index.html"}},"commit":{"sha":"58df8e92266f15600c9cc30ce48ab0120bf11308","node_id":"MDY6Q29tbWl0MjYyNzU5NjU4OjU4ZGY4ZTkyMjY2ZjE1NjAwYzljYzMwY2U0OGFiMDEyMGJmMTEzMDg=","url":"https://api.github.com/repos/piotrpio/perfektbud/git/commits/58df8e92266f15600c9cc30ce48ab0120bf11308","html_url":"https://github.com/piotrpio/perfektbud/commit/58df8e92266f15600c9cc30ce48ab0120bf11308","author":{"name":"piotrpio","email":"piotrpiotrowski94@gmail.com","date":"2020-05-10T14:43:52Z"},"committer":{"name":"piotrpio","email":"piotrpiotrowski94@gmail.com","date":"2020-05-10T14:43:52Z"},"tree":{"sha":"f4a5bc911d0e1cbc35825f3c5c21a7ed4fe2972c","url":"https://api.github.com/repos/piotrpio/perfektbud/git/trees/f4a5bc911d0e1cbc35825f3c5c21a7ed4fe2972c"},"message":"WP2Static UPDATE comments/feed/index.html","parents":[{"sha":"88fedd9afe4cce223a2241cfd96783f9745ffb71","url":"https://api.github.com/repos/piotrpio/perfektbud/git/commits/88fedd9afe4cce223a2241cfd96783f9745ffb71","html_url":"https://github.com/piotrpio/perfektbud/commit/88fedd9afe4cce223a2241cfd96783f9745ffb71"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/feed/index.html to feed/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":{"oid":"97d2171987a88b3c54e6cea6fa093fb3c5882385","byteSize":1773}}}}
+feed/index.html path exists in GitHub
+Updating feed/index.html in GitHub
+API response code 200
+API response body {"content":{"name":"index.html","path":"feed/index.html","sha":"39710e3dc6e05fdded495e21879f9c05fea02b7b","size":1718,"url":"https://api.github.com/repos/piotrpio/perfektbud/contents/feed/index.html?ref=gh-pages","html_url":"https://github.com/piotrpio/perfektbud/blob/gh-pages/feed/index.html","git_url":"https://api.github.com/repos/piotrpio/perfektbud/git/blobs/39710e3dc6e05fdded495e21879f9c05fea02b7b","download_url":"https://raw.githubusercontent.com/piotrpio/perfektbud/gh-pages/feed/index.html","type":"file","_links":{"self":"https://api.github.com/repos/piotrpio/perfektbud/contents/feed/index.html?ref=gh-pages","git":"https://api.github.com/repos/piotrpio/perfektbud/git/blobs/39710e3dc6e05fdded495e21879f9c05fea02b7b","html":"https://github.com/piotrpio/perfektbud/blob/gh-pages/feed/index.html"}},"commit":{"sha":"215853ea9a0bef95e4d7a74a113dde602cabae4b","node_id":"MDY6Q29tbWl0MjYyNzU5NjU4OjIxNTg1M2VhOWEwYmVmOTVlNGQ3YTc0YTExM2RkZTYwMmNhYmFlNGI=","url":"https://api.github.com/repos/piotrpio/perfektbud/git/commits/215853ea9a0bef95e4d7a74a113dde602cabae4b","html_url":"https://github.com/piotrpio/perfektbud/commit/215853ea9a0bef95e4d7a74a113dde602cabae4b","author":{"name":"piotrpio","email":"piotrpiotrowski94@gmail.com","date":"2020-05-10T14:43:53Z"},"committer":{"name":"piotrpio","email":"piotrpiotrowski94@gmail.com","date":"2020-05-10T14:43:53Z"},"tree":{"sha":"1266a641f043ad9b9a7a2a2589021d036c96d296","url":"https://api.github.com/repos/piotrpio/perfektbud/git/trees/1266a641f043ad9b9a7a2a2589021d036c96d296"},"message":"WP2Static UPDATE feed/index.html","parents":[{"sha":"58df8e92266f15600c9cc30ce48ab0120bf11308","url":"https://api.github.com/repos/piotrpio/perfektbud/git/commits/58df8e92266f15600c9cc30ce48ab0120bf11308","html_url":"https://github.com/piotrpio/perfektbud/commit/58df8e92266f15600c9cc30ce48ab0120bf11308"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css to wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css in GitHub
+Skipping wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/css/editor-style-block.css to wp-content/themes/twentytwenty/assets/css/editor-style-block.css in GitHub
+Skipping wp-content/themes/twentytwenty/assets/css/editor-style-block.css as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css to wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css in GitHub
+Skipping wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/css/editor-style-classic.css to wp-content/themes/twentytwenty/assets/css/editor-style-classic.css in GitHub
+Skipping wp-content/themes/twentytwenty/assets/css/editor-style-classic.css as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 to wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 in GitHub
+Skipping wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 to wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 in GitHub
+Skipping wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png to wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png in GitHub
+Skipping wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png to wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png in GitHub
+Skipping wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/images/2020-square-1.png to wp-content/themes/twentytwenty/assets/images/2020-square-1.png in GitHub
+Skipping wp-content/themes/twentytwenty/assets/images/2020-square-1.png as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/images/2020-square-2.png to wp-content/themes/twentytwenty/assets/images/2020-square-2.png in GitHub
+Skipping wp-content/themes/twentytwenty/assets/images/2020-square-2.png as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png to wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png in GitHub
+Skipping wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png to wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png in GitHub
+Skipping wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png to wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png in GitHub
+Skipping wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png to wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png in GitHub
+Skipping wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/js/color-calculations.js to wp-content/themes/twentytwenty/assets/js/color-calculations.js in GitHub
+Skipping wp-content/themes/twentytwenty/assets/js/color-calculations.js as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/js/customize-controls.js to wp-content/themes/twentytwenty/assets/js/customize-controls.js in GitHub
+Skipping wp-content/themes/twentytwenty/assets/js/customize-controls.js as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/js/customize-preview.js to wp-content/themes/twentytwenty/assets/js/customize-preview.js in GitHub
+Skipping wp-content/themes/twentytwenty/assets/js/customize-preview.js as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/js/customize.js to wp-content/themes/twentytwenty/assets/js/customize.js in GitHub
+Skipping wp-content/themes/twentytwenty/assets/js/customize.js as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/js/editor-script-block.js to wp-content/themes/twentytwenty/assets/js/editor-script-block.js in GitHub
+Skipping wp-content/themes/twentytwenty/assets/js/editor-script-block.js as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/js/index.js to wp-content/themes/twentytwenty/assets/js/index.js in GitHub
+Skipping wp-content/themes/twentytwenty/assets/js/index.js as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js to wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js in GitHub
+Skipping wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/package-lock.json to wp-content/themes/twentytwenty/package-lock.json in GitHub
+Skipping wp-content/themes/twentytwenty/package-lock.json as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/print.css to wp-content/themes/twentytwenty/print.css in GitHub
+Skipping wp-content/themes/twentytwenty/print.css as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/screenshot.png to wp-content/themes/twentytwenty/screenshot.png in GitHub
+Skipping wp-content/themes/twentytwenty/screenshot.png as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/style-rtl.css to wp-content/themes/twentytwenty/style-rtl.css in GitHub
+Skipping wp-content/themes/twentytwenty/style-rtl.css as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-content/themes/twentytwenty/style.css to wp-content/themes/twentytwenty/style.css in GitHub
+Skipping wp-content/themes/twentytwenty/style.css as identical to deploy cache
+Uploading /opt/lampp/htdocs/perfektbud/wp-content/uploads/wp-static-html-output-1589121817/wp-includes/css/dist/block-library/style.min.css to wp-includes/css/dist/block-library/style.min.css in GitHub
+Skipping wp-includes/css/dist/block-library/style.min.css as identical to deploy cache

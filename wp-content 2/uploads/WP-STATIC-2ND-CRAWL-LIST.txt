@@ -1,0 +1,6 @@
+/author/pido/
+/category/bez-kategorii/feed/
+/comments/feed/
+/feed/
+/wp-includes/css/dist/block-library/style.min.css
+/wp-json/
