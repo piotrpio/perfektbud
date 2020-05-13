@@ -99,7 +99,7 @@ ul.list_nav {margin: 0 auto;text-align: center;display: block;}
 #slider .inner_carousel p {color: #fff;margin-top: 10px;font-size: 16px;letter-spacing: 0;line-height: 2;}
 .more-btn, .about-btn {margin: 15px 0;}
 #slider .view-more {border: solid 2px #fff;color: #fff;background: transparent;}
-.view-more {color: #252525;font-size: 14px;letter-spacing: 1px;border: solid 2px #252525;padding: 12px 0 12px 15px;border-radius: 30px;font-weight: bold;}
+.view-more {display: none;color: #252525;font-size: 14px;letter-spacing: 1px;border: solid 2px #252525;padding: 12px 0 12px 15px;border-radius: 30px;font-weight: bold;}
 .view-more i {background: #252525;padding: 14px 18px;border-radius: 50%;font-size: 15px;position: relative;left: 5px;color: #fff;top: 1px;}
 #slider .view-more:hover, .view-more:hover {border-color: #c28851;background: #c28851;color: #fff;}
 .styling-box {padding: 15px 0;border-right: solid 1px #e9e9e9;}
